@@ -16,8 +16,3 @@ Install packages in R:
 ```r
 install.packages(c("shiny","readxl","dplyr","tidyr","ggplot2","stringr"))
 
-
-## Run locally
-```r
-install.packages(c("shiny","readxl","dplyr","tidyr","ggplot2","stringr"))
-shiny::runApp()
